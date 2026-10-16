@@ -1,0 +1,16 @@
+,transaction_id,date,category,description,amount,payment_method,z_score
+0,TXN100429,2025-12-13,Food,Lunch,2212.56,Credit Card,8.24
+1,TXN100012,2025-04-19,Food,Zomato order,1828.29,Credit Card,6.57
+2,TXN100664,2025-07-16,Transport,Metro card,902.9,Cash,5.2
+3,TXN100733,2025-05-24,Transport,Metro card,819.72,Debit Card,4.6
+4,TXN100765,2025-10-01,Food,Swiggy order,1319.58,Cash,4.37
+5,TXN100209,2025-12-21,Transport,Uber,780.33,UPI,4.32
+6,TXN100251,2025-12-22,Transport,Fuel,763.39,Cash,4.19
+7,TXN100475,2025-11-15,Utilities,Mobile recharge,3361.19,UPI,4.12
+8,TXN100151,2025-09-05,Shopping,Electronics,9474.97,Credit Card,4.04
+9,TXN100651,2025-09-17,Food,Swiggy order,1159.71,Debit Card,3.67
+10,TXN100243,2025-11-17,Food,Lunch,1140.71,Credit Card,3.59
+11,TXN100889,2025-12-28,Food,Dinner out,1119.78,Credit Card,3.5
+12,TXN100624,2025-10-07,Food,Dinner out,1105.46,Credit Card,3.44
+13,TXN100794,2025-10-12,Entertainment,Movie,3113.58,Cash,3.39
+14,TXN100391,2025-03-06,Transport,Uber,622.32,Credit Card,3.18
